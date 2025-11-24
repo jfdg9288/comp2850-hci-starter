@@ -19,19 +19,19 @@ import java.io.StringWriter
  */
 
 // Week 7+ imports (inline edit, toggle completion):
-import model.Task               // When Task becomes separate model class
-import model.ValidationResult   // For validation errors
+//import model.Task               // When Task becomes separate model class
+//import model.ValidationResult   // For validation errors
 import renderTemplate            // Extension function from Main.kt
 import isHtmxRequest             // Extension function from Main.kt
 
 // Week 8+ imports (pagination, search, URL encoding):
-import io.ktor.http.encodeURLParameter  // For query parameter encoding
-import utils.Page                       // Pagination helper class
+//import io.ktor.http.encodeURLParameter  // For query parameter encoding
+//import utils.Page                       // Pagination helper class
 
 // Week 9+ imports (metrics logging, instrumentation):
-import utils.jsMode              // Detect JS mode (htmx/nojs)
-import utils.logValidationError  // Log validation failures
-import utils.timed               // Measure request timing
+//import utils.jsMode              // Detect JS mode (htmx/nojs)
+//import utils.logValidationError  // Log validation failures
+//import utils.timed               // Measure request timing
 
 // Note: Solution repo uses storage.TaskStore instead of data.TaskRepository
 // You may refactor to this in Week 10 for production readiness
