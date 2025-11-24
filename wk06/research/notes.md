@@ -1,43 +1,27 @@
-# Interview Notes — Week 6
+# Week 6 – Needs-Finding Interview Notes
 
-## Participant A
-**Date**: [YYYY-MM-DD HH:MM]
-**Context**: [e.g., Uses keyboard only, ADHD, prefers dark mode]
-**Consent**: ✅ Confirmed verbally
-**Duration**: ~10 minutes
+## Participant P1
+- Date/time: 
+- Context (course, year, devices):
+- Tools used now (e.g. Google Calendar, phone reminders, paper planner):
 
----
+### Q1. Last time you used a to-do list / task manager
+Notes:
 
-### Q1: Last time using task manager?
-**Response**: [Quote or paraphrase]
+### Q2. Biggest frustrations with managing tasks
+Notes:
 
-**Observations**: [What stood out? Frustration? Workaround?]
+### Q3. Losing track of an important task – what happened?
+Notes:
 
-**Themes**: `[tag1]`, `[tag2]`
+### Q4. Working without a mouse / on the move
+Notes:
 
----
+### Q5. Accessibility / inclusion (e.g. stress, attention, vision, screen reader)
+Notes:
 
-### Q2: Biggest frustration?
-**Response**: [Quote]
-
-**Observations**:
-
-**Themes**:
-
----
-
-[Repeat for Q3-Q6]
-
----
-
-## Summary (Participant A)
-**Top pain points**:
-1. [Issue with evidence]
-2. [Issue with evidence]
-
-**Job story ideas**:
-- "When [situation], I want [motivation] so [outcome]."
-
+### Q6. “Ideal” task manager / what would help?
+Notes:
 
 time | task | observation | issue_tag | severity
 ---|---|---|---|---

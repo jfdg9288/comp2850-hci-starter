@@ -14,79 +14,58 @@ Your consent protocol should include:
 
 See mdbook Week 6 Lab 2 Activity 1 Step 2 for the full template to copy.
 
-# Informed Consent Protocol — Week 6 Peer Interviews
+# Week 6 – Consent Protocol (COMP2850)
 
-**Module**: COMP2850 Human-Computer Interaction
-**Activity**: Low-risk needs-finding (peer interviews)
-**Date**: [YYYY-MM-DD]
-**Researcher**: [Your Name/Student ID]
+**Researcher:** Karan Chugani  
+**Module:** COMP2850 – Human–Computer Interaction  
+**Date:** 2025-11-24  
+**Contact email:** jfdg9288@leeds.ac.uk  
 
----
+## 1. Purpose
 
-## Purpose
+I’m working on a task manager as part of COMP2850.  
+This interview is to understand how people manage tasks and what problems they face, so I can design more inclusive features.
 
-Short peer interviews (5-10 minutes) to understand task manager needs and identify accessibility improvements for COMP2850 coursework (Weeks 6-11).
+## 2. What you’ll do
 
-## What You'll Do
+- A short, ~5–10 minute conversation about how you manage tasks (coursework, life admin, etc.).
+- I’ll take written notes (no recording).
+- There are no right or wrong answers – I’m interested in your experiences.
 
-I'll ask 3-5 questions about task management experiences. Brief notes only. **No recordings** unless you explicitly agree.
+## 3. Data and privacy
 
-## Data Collected
+- I will **not** record your name, email, username, or student ID in my notes.
+- I will use a **pseudonym** (e.g. P1, P2) instead of your name.
+- Notes are stored only in my **local Git repository** on my laptop for this module.
+- Notes will be used only for COMP2850 coursework and will not be shared publicly.
 
-**Will collect**:
-- Pseudonymised notes ("Participant A said...")
-- Interview timestamp
-- Context tags ("Uses keyboard only", "Prefers dark mode")
+## 4. Your rights
 
-**Will NOT collect**:
-- Your name (unless you want acknowledgement credit)
-- Student ID, email, or any personally identifiable information (PII)
+- Participation is **voluntary**.
+- You can **stop at any time** without giving a reason.
+- You can ask me to **delete your notes** at any point; I will remove your pseudonym and any identifiable details.
+- You can skip any question you don’t want to answer.
 
-## Data Storage
+## 5. Risks and benefits
 
-- **Where**: Private Git repository on my laptop (not shared publicly)
-- **Access**: Me, lab partner, teaching staff (if requested for marking)
-- **Duration**: Until end of Semester 1 (January 2025), then deleted OR anonymised for portfolio
+- Risks: minimal; some people may feel mild discomfort talking about stress or deadlines.
+- Benefits: your feedback may help improve an inclusive task manager design for students.
 
-## Your Rights (UK GDPR / Data Protection Act 2018)
+## 6. Consent script (read aloud)
 
-- **Withdraw**: Stop anytime, no explanation needed
-- **Access**: Ask to see your data (I'll show notes)
-- **Erasure**: Request deletion (email me with date/pseudonym)
-- **Complain**: University Data Protection Officer: dpo@leeds.ac.uk
+Before starting, I will say:
 
-## Consent Confirmation
+> “I’m doing a small research activity for my HCI module about how students manage tasks.  
+> I’ll ask you a few questions about how you use to-do lists or planners.  
+> I’ll use a pseudonym instead of your name and I won’t record any personal identifiers.  
+> You can stop at any time or ask me to delete your notes.  
+> Is that okay, and do you consent to take part?”
 
-Before starting, I will ask:
-- [ ] Purpose explained clearly?
-- [ ] Understand what data I'll collect?
-- [ ] Know you can stop anytime?
-- [ ] Consent to participate?
-
-**Verbal consent sufficient**. If yes, I'll note:
-- Date/time: [YYYY-MM-DD HH:MM]
-- Pseudonym: [e.g., "Participant A"]
-- Consent confirmed: [Initials]
+If they say **yes**, I’ll note the time below.
 
 ---
 
-## Opt-Out Process
-
-If you change your mind:
-1. Email: [your-university-email]
-2. Include: interview date + pseudonym
-3. I'll delete notes within 48 hours
-4. Confirm deletion via email
-
----
-
-## Contact
-
-**Researcher**: [Your Name], [your-email@leeds.ac.uk]
-**Module Lead**: Dr. [Name], [module-email]
-**University Ethics**: ethics@leeds.ac.uk
-
----
-
-**Template source**: COMP2850 HCI, University of Leeds
-**Reference**: ICO (2024). Guide to GDPR, <https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/>
+**Participant ID:** P__  
+**Consent given?** Yes / No  
+**Consent timestamp:** ____
+**Researcher initials:** KC
