@@ -18,7 +18,7 @@ See mdbook Week 6 Lab 2 Activity 1 Step 2 for the full template to copy.
 
 **Researcher:** Karan Chugani  
 **Module:** COMP2850 – Human–Computer Interaction  
-**Date:** 2025-11-24  
+**Date:** 2025-MM-DD  
 **Contact email:** jfdg9288@leeds.ac.uk  
 
 ## 1. Purpose
