@@ -1,0 +1,7 @@
+id,title,story_ref,need,type,severity,inclusion_risk,evidence,candidate_fix
+1,Show urgency/priority labels,stories.md#S1,Reduce overwhelm for many deadlines,Accessibility,High,"Cognitive,Mental health","P1 notes",true
+2,Ensure keyboard-only navigation works,stories.md#S2,Allow task management without mouse,Accessibility,High,"Keyboard,Motor","P2 notes",true
+3,Add gentle overdue reminder pattern,stories.md#S3,Support people who forget tasks,Feature,Medium,"Cognitive,Mental health","P1 notes",false
+4,Quick-add shortcut with minimal fields,stories.md#S4,Lower friction for capture,Feature,Medium,Cognitive,"P2 notes",false
+5,Improve confirmation messages,stories.md#S5,Make success/error feedback clearer,Accessibility,High,"SR,Cognitive","Lab 1 tests + P1 notes",true
+6,Review contrast and spacing,stories.md#S6,Reduce visual strain,Accessibility,Medium,"Low vision,Cognitive","P3 notes",false

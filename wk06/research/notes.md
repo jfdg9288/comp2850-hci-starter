@@ -1,6 +1,6 @@
 # Week 6 – Needs-Finding Interview Notes
 
-## Participant P1
+## Participant 1
 - Date/time: 
 - Context (course, year, devices):
 - Tools used now (e.g. Google Calendar, phone reminders, paper planner):
@@ -25,3 +25,5 @@ Notes:
 
 time | task | observation | issue_tag | severity
 ---|---|---|---|---
+
+

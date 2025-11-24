@@ -1,29 +1,32 @@
-# Instrumentation Plan (outline)
-
-- Log shape: event, task id, request id, timestamp, millis.
-- No PII. Store locally in repo.
-
-# Week 9 Evaluation Planning Sketch
+# Week 6 – Instrumentation Plan (Week 9 Preview)
 
 ## Events to Log
+- `task_created` – when a task is added
+- `task_deleted` – when a task is deleted
+- `validation_error` – when a form submission fails
+- `filter_applied` (if added later) – when filters are used
 
-Based on backlog priorities:
-- Task creation (time, validation errors)
-- Task deletion (confirmation shown?)
-- Filter usage (reset frequency)
-- Keyboard navigation (Tab presses per task)
+Fields I might capture:
+- `ts_iso` – timestamp in ISO format
+- `session_id` – anonymous session identifier
+- `request_id` – per-request ID
+- `js_mode` – `js` vs `no-js`
+- `task_id` – for edits/deletes
+- `title_length` – length of task title
+- `field` / `error_type` – for validation errors
 
-## Metrics to Capture
+## Metrics to Compute
+- Time-on-task: how long to add/delete a task
+- Error rate: how often validation errors occur per participant
+- Completion rate: % of tasks completed successfully
+- Filter usage rate: how often filters are used (if implemented)
+- JS vs no-JS comparison: performance + errors
 
-- **Time-on-task**: How long to add/edit/delete?
-- **Error rate**: How often do validation errors occur?
-- **Completion rate**: Can people complete tasks without help?
-- **Confidence ratings**: Post-task subjective feedback
+## Test Scenarios (for Week 9)
+1. Add 3 tasks with realistic titles.
+2. Delete one task using keyboard only.
+3. (Later) Use filter/search, then reload the page and check persistence.
 
-## Test Scenarios
-
-1. Add 3 tasks (test confirmation feedback)
-2. Delete task with keyboard only (test accessibility)
-3. Filter then page-reload (test filter persistence)
-
-Details in Week 9 Lab 1.
+Notes:
+- Metrics should help evaluate the backlog items marked `candidate_fix=true`.
+- Instrumentation must avoid PII (no names, emails, IDs).
